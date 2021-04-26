@@ -1,0 +1,14 @@
+.myCard {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+  justify-content: center;
+}
+body{
+  background-color: brown;
+  box-sizing: border-box;
+}
+h1{
+  text-align: center;
+}
